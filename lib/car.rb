@@ -5,3 +5,4 @@ class Car < Vehicle
   def go
     "VRRROOOOOOOOOOOOOOOOOM!!!!!"
 end 
+end 
